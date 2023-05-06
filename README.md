@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekhtiari
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning how to be alive
+- 🌱 I’m currently learning how to be human
 
 <!---
 ekhtiari/ekhtiari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
